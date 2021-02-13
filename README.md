@@ -13,10 +13,13 @@ The purpose of our analysis is to determine the numbers of employees who are clo
 
 ## Results
 
-Over 90,000 employees will reach retirment age in the near future. About a third of these, 32.5% will be senior engineers, another third (31.2%) will be senior staff. See all counts by title name in table named "retiring_titles".
-	
+1. Over 90,000 employees will reach retirment age in the near future. 
 
-There are 1,550 current employees who would be eligible for a possible mentorship program. See table named "mentorship_eligibility" to see further details about these employees including their title name. 
+2. About a third of these, 32.5% will be senior engineers. 
+
+3. Another third (31.2%) will be senior staff. See all counts by title name in table named "retiring_titles".
+	
+4. There are 1,550 current employees who would be eligible for a possible mentorship program. See table named "mentorship_eligibility" to see further details about these employees including their title name. 
 
 
 ## Summary
